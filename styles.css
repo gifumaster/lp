@@ -79,6 +79,11 @@ a {
   margin-bottom: 0;
 }
 
+.note {
+  color: #666;
+  font-size: 0.95rem;
+}
+
 .thumbnail {
   margin: 0;
 }
